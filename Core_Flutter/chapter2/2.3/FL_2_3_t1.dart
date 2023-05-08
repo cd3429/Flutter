@@ -19,5 +19,5 @@ void main() {
     list2.add(n);
   }
 
-  print(list2); // Output: [1 A, 2 B, 3 C]
+  print(list2); 
 }
