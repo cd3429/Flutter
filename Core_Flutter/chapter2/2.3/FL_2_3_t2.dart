@@ -1,3 +1,12 @@
+/*
+
+Write a Dart program to create a list which
+contains all Indian states.
+Add all indian states in list by user input.
+After that print all states using any type of loop.
+
+*/
+
 import 'dart:io';
 
 void main() {
@@ -12,5 +21,5 @@ void main() {
     state.add(s);
   }
 
-  print(state); // Output: [1 A, 2 B, 3 C]
+  print(state); 
 }
